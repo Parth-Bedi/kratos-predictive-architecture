@@ -1,0 +1,30 @@
+Kratos Predictive Architecture
+Copyright 2026 Parth Bedi
+
+=========================================================================
+RESEARCH & CITATION NOTICE
+=========================================================================
+
+This repository accompanies the theoretical framework and research paper:
+"The Kratos Predictive Architecture: A Mathematical Optimization Model 
+for Quantifying Post-Flow Cognitive Adaptation Thresholds"
+
+Author: Parth Bedi
+Year: 2026
+
+If you utilize this mathematical framework, simulation engine (kratos_engine.py),
+or generated datasets in your academic research, studies, or applications, 
+please cite:
+
+Bedi, P. (2026). The Kratos Predictive Architecture. 
+GitHub repository: https://github.com/Parth-Bedi/kratos-predictive-architecture
+
+-------------------------------------------------------------------------
+ACADEMIC & SCIENTIFIC DISCLAIMER
+-------------------------------------------------------------------------
+This codebase and theoretical model are provided strictly for academic, 
+computational, and research simulation purposes. The parameters (e.g., 
+prefrontal half-saturation constant, metabolic depletion ceiling, and 
+systemic readiness composite) constitute a formal mathematical optimization 
+framework and are not intended for clinical, psychological, or medical 
+diagnostic use.
